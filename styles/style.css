@@ -329,6 +329,7 @@
     block-size: 84px;
     inline-size: 306px;
   }
+}
 
 @supports((text-stroke: 1px #fff) or (-webkit-text-stroke: 1px #fff)) {
   .watermark {
